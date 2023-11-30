@@ -80,7 +80,7 @@ const config = {
   // To hide the `My Projects` section, keep it empty.
   externalProjects: [
     {
-      title: 'Security Audit',
+      title: 'Use the NIST Cybersecurity Framework to Respond to a Security Incident',
       description: 
         'A security audit using NIST Framework in response to an incident at XYZ Financial',
       imageURL:'https://drive.google.com/drive/u/0/recent',

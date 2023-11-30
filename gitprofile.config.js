@@ -80,11 +80,9 @@ const config = {
   // To hide the `My Projects` section, keep it empty.
   externalProjects: [
     {
-      title: 'Project Name',
-      description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
-      imageUrl: 'https://via.placeholder.com/250x250',
-      link: 'https://example.com',
+      title: 'Security Audit',
+      imageURL:'https://drive.google.com/drive/u/0/recent',
+      link: 'https://drive.google.com/file/d/149PkLpSTMSOcud7gfLxxpNtHtmGAsInl/view',
     },
     {
       title: 'Project Name',

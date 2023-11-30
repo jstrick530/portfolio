@@ -81,6 +81,8 @@ const config = {
   externalProjects: [
     {
       title: 'Security Audit',
+      description: 
+        'A security audit using NIST Framework in response to an incident at XYZ Financial'
       imageURL:'https://drive.google.com/drive/u/0/recent',
       link: 'https://drive.google.com/file/d/149PkLpSTMSOcud7gfLxxpNtHtmGAsInl/view',
     },

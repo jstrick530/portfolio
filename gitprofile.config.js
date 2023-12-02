@@ -98,6 +98,13 @@ const config = {
         'Attached is a description of the Project',
        link: 'https://docs.google.com/document/d/1iCMDayYbQivtImc4mPCjep8qFHd8RKWa/edit?usp=sharing&ouid=105732824515808687855&rtpof=true&sd=true',
     },
+    {
+    title: 'Security Audit for XYZ Financial',
+      description: 
+        'Taking the role of a cybersecurity professional and performing a security audit for fictional XYZ Financial',
+      imageURL:'https://drive.google.com/drive/u/0/recent',
+      link: 'https://docs.google.com/document/d/1kCk1kJPtqu4lkKIgGLB5KsLgeqW12cII/edit?usp=sharing&ouid=105732824515808687855&rtpof=true&sd=true',
+    },
   ],
   // Display blog posts from your medium or dev account. (Optional)
  // blog: {

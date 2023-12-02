@@ -87,11 +87,10 @@ const config = {
       link: 'https://drive.google.com/file/d/149PkLpSTMSOcud7gfLxxpNtHtmGAsInl/view',
     },
     {
-      title: 'Project Name',
+      title: 'Splunk Activity and Reflection',
       description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
-      imageUrl: 'https://via.placeholder.com/250x250',
-      link: 'https://example.com',
+        'In this activity, sample data was given to run through Splunk to learn the functions of the software.',
+      link: 'https://docs.google.com/document/d/16VWjEZuDSAyjrPGJhLAHVd7mm1V57aAB/edit?usp=sharing&ouid=105732824515808687855&rtpof=true&sd=true',
     },
   ],
   // Display blog posts from your medium or dev account. (Optional)

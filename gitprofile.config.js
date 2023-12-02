@@ -11,8 +11,8 @@ const config = {
     },
   },
   social: {
-    linkedin: 'https://www.linkedin.com/in/james-strickland-55b7b6256/',
-    facebook: 'https://www.facebook.com/james.strickland.3785373',
+    linkedin: 'james-strickland-55b7b6256/',
+    facebook: 'james.strickland.3785373',
     instagram: '@jstrick530',
     youtube: '', // example: 'pewdiepie'
     dribbble: '',

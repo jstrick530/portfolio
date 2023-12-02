@@ -95,7 +95,8 @@ const config = {
      {
       title: 'Enterprise Architecture Project',
       description: 
-        'Studied a company's network and created needs and risks assessments, 'gap' analysis, 'along' with assessments and recommendations to improve the company's network. Our company wished to keep their information private, so I can't share those findings.',
+        'Studied a company's network and created needs and risks assessments gap analysis along with assessments and recommendations to improve the company's network',
+       'Our company wished to keep their information private, so I can't share those findings.',
     },
   ],
   // Display blog posts from your medium or dev account. (Optional)

@@ -92,6 +92,11 @@ const config = {
         'In this activity, sample data was given to run through Splunk to learn the functions of the software.',
       link: 'https://docs.google.com/document/d/16VWjEZuDSAyjrPGJhLAHVd7mm1V57aAB/edit?usp=sharing&ouid=105732824515808687855&rtpof=true&sd=true',
     },
+     {
+      title: 'Enterprise Architecture Project',
+      description: 
+        'Studied a company's network and created needs and risks assessments, gap analysis, along with assessments and recommendations to improve the company's network. Our company wished to keep their information private, so I can't share those findings.',
+    },
   ],
   // Display blog posts from your medium or dev account. (Optional)
  // blog: {

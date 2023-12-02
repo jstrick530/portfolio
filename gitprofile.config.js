@@ -95,7 +95,8 @@ const config = {
      {
       title: 'Enterprise Architecture Project',
       description: 
-        'Although I cannot share our findings because of the company's wish to remain private we as a group studied the networking structure and performed different assessments and gave recommendations',
+        'Attached is a description of the Project',
+       link: 'https://docs.google.com/document/d/1iCMDayYbQivtImc4mPCjep8qFHd8RKWa/edit?usp=sharing&ouid=105732824515808687855&rtpof=true&sd=true',
     },
   ],
   // Display blog posts from your medium or dev account. (Optional)

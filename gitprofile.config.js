@@ -119,7 +119,13 @@ const config = {
       imageURL:'https://drive.google.com/drive/u/0/recent',
       link: 'https://www.credly.com/badges/9d83693d-bb25-490d-b9a1-a9184302b3ae/public_url',
     },
-  ],
+    {
+      title: 'Pitch Statement',
+      description: 
+        'Take a look at my pitch statement here!',
+      imageURL:'https://drive.google.com/drive/u/0/recent',
+      link: 'https://drive.google.com/file/d/15s3-dDhVJ83P1C3oDEN5t93NEZT431XI/view?usp=sharing',
+    },  ],
   // Display blog posts from your medium or dev account. (Optional)
  // blog: {
   //  source: 'dev', // medium | dev

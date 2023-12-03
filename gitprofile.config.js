@@ -105,6 +105,20 @@ const config = {
       imageURL:'https://drive.google.com/drive/u/0/recent',
       link: 'https://docs.google.com/document/d/1kCk1kJPtqu4lkKIgGLB5KsLgeqW12cII/edit?usp=sharing&ouid=105732824515808687855&rtpof=true&sd=true',
     },
+    {
+      title: 'Intro to Packet Tracer Badge',
+      description: 
+        'A badge earned by performing modules in Cisco Packet Tracer',
+      imageURL:'https://drive.google.com/drive/u/0/recent',
+      link: 'https://www.credly.com/badges/85c020f8-1048-4314-8611-1fe8a0e7eef5/public_url',
+    },
+     {
+      title: 'AWS Cloud Learning Badge',
+      description: 
+        'A badge earned by completing AWS training modules',
+      imageURL:'https://drive.google.com/drive/u/0/recent',
+      link: 'https://www.credly.com/badges/9d83693d-bb25-490d-b9a1-a9184302b3ae/public_url',
+    },
   ],
   // Display blog posts from your medium or dev account. (Optional)
  // blog: {
